@@ -17,7 +17,11 @@
   self.initialProps = @{};
   
   [AppCenterReactNativeShared setStartAutomatically:YES];
+<<<<<<< Updated upstream
   [AppCenterReactNativeShared setAppSecret:@"c7610d70-71f3-4ccd-a190-5e6a33efcf24"];
+=======
+  [AppCenterReactNativeShared setAppSecret:@"285d0c51-06d2-4007-a3ad-9fa62708f53f"];
+>>>>>>> Stashed changes
   [AppCenterReactNative register];
   [AppCenterReactNativeAnalytics registerWithInitiallyEnabled:true];
   [AppCenterReactNativeCrashes registerWithAutomaticProcessing];

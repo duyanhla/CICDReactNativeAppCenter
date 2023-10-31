@@ -1,10 +1,17 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 iOS
+<<<<<<< Updated upstream
 [![Build status](https://build.appcenter.ms/v0.1/apps/be0ab460-d1a6-4f75-8dd1-4ec600b5923f/branches/dev/badge)](https://appcenter.ms)
 
 Android
 [![Build status](https://build.appcenter.ms/v0.1/apps/6f3289d3-99c0-4bd7-a20a-8a77c9de1562/branches/dev/badge)](https://appcenter.ms)
+=======
+[![Build status](https://build.appcenter.ms/v0.1/apps/5bfdc7f8-ec4c-40ae-a544-32154d42f441/branches/main/badge)](https://appcenter.ms)
+
+Android
+[![Build status](https://build.appcenter.ms/v0.1/apps/77b9881a-73c8-43f4-952d-d7600d066434/branches/main/badge)](https://appcenter.ms)
+>>>>>>> Stashed changes
 
 # Getting Started
 

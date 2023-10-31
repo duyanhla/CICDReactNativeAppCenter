@@ -10,6 +10,10 @@
 <plist version="1.0">
   <dict>
      <key>AppSecret</key>
+<<<<<<< Updated upstream
      <string>c7610d70-71f3-4ccd-a190-5e6a33efcf24</string>
+=======
+     <string>285d0c51-06d2-4007-a3ad-9fa62708f53f</string>
+>>>>>>> Stashed changes
      </dict>
 </plist>
